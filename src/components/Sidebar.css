@@ -1,0 +1,207 @@
+.pp{
+    width: 100%;
+}
+.logo {
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+  }
+  .name{
+      margin-left: 19px;
+      margin-top: 9px;
+      font-weight: bold;
+  }
+  .message{
+      margin-left: 19px;
+      font-size: 14px;
+  }
+  .time{
+      font-size: 12px;
+      margin-left: 75px;
+      color: green;
+      
+  }
+  .sidebar{
+      border-right: 1px whitesmoke solid;
+  }
+  .messageCount{
+    font-size: 12px;
+    margin-left: 60px;
+  }
+  .contact{
+      margin-top: 10px;
+  }
+ .timeYesterday{
+     margin-left: 63px;
+ }
+ .timeDate{
+     margin-left: 58px;
+ }
+ .rightSide{
+     background: url('./bg.png');
+    width: 1126px;
+ }
+ .chatNameProfile{
+     margin-left: -18px;
+     width: 1132px;
+     border-bottom: 1px whitesmoke solid;
+ }
+ .fa-video,.fa-phone-alt{
+color: green;
+font-size: 24px;
+padding-left: 20px;
+ }
+ .fa-phone-alt{
+padding-right: 45px; 
+}
+.chatprofilename{
+    margin-left: 12px;
+}
+.hellouser{
+    padding: 10px;
+    background-color: #dcf8c6;
+    margin-top: 10px;
+    float: right;
+    margin-right: 10px;
+}
+.messageTime{
+    font-size: 10px;
+    margin-left: 10px;
+}
+.helloclient{
+    padding: 10px;
+    background-color: whitesmoke;
+    margin-top: 60px;
+    float: left;
+    margin-right: 10px;
+}
+.audiomissed{
+    padding: 10px;
+    background-color: whitesmoke;
+    margin-left: -115px;
+    margin-top: 108px;
+    float: left;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.youmissed{
+    padding: 10px;
+    background-color: grey;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 10px;
+    color: white;
+  
+}
+.miss{
+    font-size: 16px;
+    margin-left: -16px;
+}
+.videomissed{
+    padding: 10px;
+    background-color: whitesmoke;
+    margin-left: -259px;
+    margin-top: 220px;
+    float: left;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.drmissed{
+    padding: 10px;
+    background-color: #dcf8c6;
+    margin-top: 310px;
+    float: right;
+    margin-right: -110px;
+    font-weight: bold;
+}
+.end{
+    padding: 10px;
+    background-color: grey;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 12px;
+    color: white;
+}
+.inutTag{
+    border-radius: 20px;
+    font-size: 16px;
+    height: 34px;
+    width: 629px;
+    border: none;
+}
+.msgbox{
+    margin-left: -18px;
+    width: 1131px;
+    height: 70px;
+}
+.fa-paperclip,.fa-paper-plane{
+    font-size: 24px;
+    color: #01AB98;
+    padding-left: 0px;
+    padding-right: 20px;
+}
+.my-fancy-container {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    display: inline-block;
+    margin: 60px;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .my-text {
+    display: block;
+    font-family: "Courier-new";
+  }
+  
+  .my-icon {
+      vertical-align: middle;
+      font-size: 40px;
+  }
+  
+  .arrow-down {
+      width: 0; 
+      height: 0; 
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 5px solid black;
+      margin: 0 auto;
+  }
+  .camera{
+      display: flex;
+    ;
+      
+  }
+  .media{
+      padding: 10px;
+      background-color: #01AB98;
+      border-radius: 50%;
+      color: white;
+  }
+  .mediaIcon{
+      margin-top: 7%;
+      float: right;
+      margin-right: 35px;
+      margin-left: 650px;
+    
+  }
+  .mediaName{
+      margin-top: -40px;
+     
+  }
+  .cameraicon{
+      margin-left: -8px;
+  }
+  .fileIcon{
+      margin-left: 16px;
+  }
+  .pIcon{
+      margin-left: 3px;
+  }
+  .mediaName li{
+    color: #01AB98
+  }
